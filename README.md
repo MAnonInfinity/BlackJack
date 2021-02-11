@@ -1,2 +1,2 @@
 # BlackJack
-A BlackJack game made in Python.
+The classic BlackJack game made in Python.
